@@ -1,0 +1,5 @@
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe.config
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.pdb
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Miles to Kilometers\obj\Debug\Miles to Kilometers.exe
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Miles to Kilometers\obj\Debug\Miles to Kilometers.pdb
